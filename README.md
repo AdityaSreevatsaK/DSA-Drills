@@ -1,4 +1,4 @@
-# DSA Drills
+# <p align="center">DSA Drills</p>
 
 A collection of Data Structures and Algorithms problems solved in Python, organised for consistent practice and mastery.
 
@@ -12,6 +12,10 @@ Given an integer array `nums` and an integer `target`, return indices of **two d
 
 ✦ [Maximum Subarray Sum (Kadane)](Arrays/Maximum%20Subarray%20Sum%20(Kadane).py) <br />
 Given an integer array `nums`, find the maximum possible sum of a non-empty contiguous subarray.
+
+✦ [Remove Duplicates from Sorted Array (in-place)](Arrays/Remove%20Duplicates%20from%20Sorted%20Array.py) <br />
+Given a non-decreasing array `nums`, remove duplicates in-place so that each unique element appears once. Return the new
+length `k`. The first `k` positions of `nums` must contain the unique elements in order.
 
 ---
 
