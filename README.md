@@ -2,7 +2,13 @@
 
 A collection of Data Structures and Algorithms problems solved in Python, organised for consistent practice and mastery.
 
+---
+
 ## 1. Arrays
+
+✦ [Two Sum Problem](Arrays/Two%20Sum.py) <br />
+Given an integer array `nums` and an integer `target`, return indices of **two distinct** elements such that
+`nums[i] + nums[j] = target`. If multiple answers exist, return any one. If none, return `None`.
 
 ---
 
