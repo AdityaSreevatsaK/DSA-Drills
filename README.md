@@ -10,6 +10,9 @@ A collection of Data Structures and Algorithms problems solved in Python, organi
 Given an integer array `nums` and an integer `target`, return indices of **two distinct** elements such that
 `nums[i] + nums[j] = target`. If multiple answers exist, return any one. If none, return `None`.
 
+✦ [Maximum Subarray Sum (Kadane)](Arrays/Maximum%20Subarray%20Sum%20(Kadane).py) <br />
+Given an integer array `nums`, find the maximum possible sum of a non-empty contiguous subarray.
+
 ---
 
 ## 2. Strings
